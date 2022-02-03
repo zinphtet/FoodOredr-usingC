@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625470267 source:d:\programming\c\tutorial\foodorder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
